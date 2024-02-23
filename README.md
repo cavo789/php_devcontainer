@@ -13,3 +13,7 @@ The ultimate solution: using a `devcontainer` in VSCode.
 By using a **devcontainer**, you (and your team colleague) will use a preinstalled environment and everyone will have exactly the same. You'll save yourself a lot of time by not having to configure your system, and you'll be able to start coding straight away, supported by a range of quality analysis tools.
 
 Please read the [PHP development in a devcontainer with preinstalled code quality tools](https://www.avonture.be/blog/vscode-devcontainer) blog post to learn how to use this repository.
+
+## Don't have time to read a full story
+
+In this case, please read [Install a PHP Docker environment in a matter of seconds](https://www.avonture.be/blog/php-devcontainer).

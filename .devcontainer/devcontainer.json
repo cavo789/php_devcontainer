@@ -60,5 +60,6 @@
                 "zobo.php-intellisense"
             ]
         }
-    }
+    },
+    "postCreateCommand": "composer require rector/rector --dev"
 }
