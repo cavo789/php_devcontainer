@@ -56,6 +56,8 @@
                 "junstyle.php-cs-fixer",
                 "ms-azuretools.vscode-docker",
                 "sonarsource.sonarlint-vscode",
+                "streetsidesoftware.code-spell-checker",
+                "usernamehw.errorlens",
                 "ValeryanM.vscode-phpsab",
                 "zobo.php-intellisense"
             ]
